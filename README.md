@@ -321,7 +321,7 @@
        },
 
       {
-      question: "EM que dia da semana da criação *Separação entre a Água e Água, Surgimento do Céu*? ",
+      question: "Em que dia da semana da criação *Separação entre a Água e Água, Surgimento do Céu*? ",
         options: ["2° dia", "4° dia", "1° dia", "3° dia"], 
         correctAnswer: 0
        },
@@ -365,7 +365,7 @@
        },
 
       {
-      question: "Qual Das alternativas descreve a criação do Homemssegundo a Bíblia? ",
+      question: "Qual Das alternativas descreve a criação do Homem segundo a Bíblia? ",
         options: ["Do pó da terra", "Feito da luz do sol", "Formado da água do mar", "Criado a partir de estrelas"], 
         correctAnswer: 0
        },

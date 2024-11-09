@@ -314,6 +314,50 @@
         correctAnswer: 0
        },
 
+      {
+      question: "Em que dia da semana da criação *Deus fez a Luz*? ",
+        options: ["2° dia", "4° dia", "1° dia", "3° dia"], 
+        correctAnswer: 2
+       },
+
+      {
+      question: "EM que dia da semana da criação *Separação entre a Água e Água, Surgimento do Céu*? ",
+        options: ["2° dia", "4° dia", "1° dia", "3° dia"], 
+        correctAnswer: 0
+       },
+
+      {
+      question: "Em que dia da semana da criação *Deus fez terra seca e vegetação*? ",
+        options: ["2° dia", "4° dia", "1° dia", "3° dia"], 
+        correctAnswer: 3
+       },
+
+
+      {
+      question: "Em que dia da semana da criação *Deus criou luminares, a Lua e as estrelas*? ",
+        options: ["2° dia", "4° dia", "1° dia", "3° dia"], 
+        correctAnswer: 1
+       },
+
+
+      {
+      question: "Em que dia da semana da criação *Deus fez todo Reptil e toda ave*? ",
+        options: ["6° dia", "4° dia", "7° dia", "5° dia"], 
+        correctAnswer: 3
+       },
+
+      {
+      question: "Em que dia da semana da criação *Deus fez animais terrestres e o Homem*? ",
+        options: ["6° dia", "4° dia", "7° dia", "5° dia"], 
+        correctAnswer: 0
+       },
+
+      {
+      question: "Em que dia da semana da criação *Deus descansou*? ",
+        options: ["6° dia", "4° dia", "7° dia", "5° dia"], 
+        correctAnswer: 2
+       },
+
       
 
 

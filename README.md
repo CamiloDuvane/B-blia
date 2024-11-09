@@ -286,6 +286,33 @@
         correctAnswer: 0
        }, 
 
+      {
+       question: "O Antigo Testamento está subdividido em quantos grupos? ",
+        options: ["2", "3", "4", "5"], 
+        correctAnswer: 3
+       }, 
+      {
+       question: "Qual desses grupos de livros fazem parte do Antigo Testamento?",
+        options: ["Livros Evagelicos, Livros Históricos, Livros Poéticos, Livros dos Profetas Maiores e Livros dos poetas Menores", "Livros Patateus, Livros Históricos, Livros Poéticos, Livros dos Profetas", "Livros Patateus, Livros Históricos, Livros Poéticos, Livros dos Profetas Maiores e Livros dos Profetas Menores", "Genises, Deternomio, Josué, Ester, Jô, cântaro de Salomão, Isaías, Daniel, Oseias e Malaquias"], 
+        correctAnswer: 2
+       }, 
+
+      {
+        question: "Qual desses grupos de livros fazem parte do Antigo Testamento?",
+        options: ["Livros Evangélicos, Livros Históricos, Livros Epístolas / Cartas Paulina, Livros Epístolas / Cartas Gerais, Livros Proféticos / Revelações", "Livros Históricos, Livros Epístolas / Cartas Paulina, Livros Epístolas / Cartas Gerais, Livros Proféticos", "Livros Evangélicos, Livros Históricos, Livros Epístolas, Livros Proféticos / Revelações", "Livros Evangélicos, Livros Históricos, Livros Epístolas, Livros de Revelações"], 
+        correctAnswer: 0
+      },
+
+      {
+       question: "Das opções as seguir qual os Sistemas de Abreviação dos livros da Bíblia que aprendeste? ",
+        options: ["Sistema Antigo e Sistema Novo", "Sistema Velho e Sistema Actualizado", "Sistema Clássico e Sistema Actualizado", "Sistema Clássico e Sistema Moderno"], 
+        correctAnswer: 3
+       },
+
+
+      
+
+
 
 
 

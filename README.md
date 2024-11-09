@@ -353,8 +353,26 @@
        },
 
       {
-      question: "Em que dia da semana da criação *Deus descansou*? ",
+      question: "Em que dia da semana da criação *Deus descansou*?",
         options: ["6° dia", "4° dia", "7° dia", "5° dia"], 
+        correctAnswer: 2
+       },
+
+      {
+      question: "Que Criatura, para ser feito foi preciso um Soleno Conselho Divino?",
+        options: ["Elefante", "Leão", "Mulher", "Homem"], 
+        correctAnswer: 3
+       },
+
+      {
+      question: "Qual Das alternativas descreve a criação do Homemssegundo a Bíblia? ",
+        options: ["Do pó da terra", "Feito da luz do sol", "Formado da água do mar", "Criado a partir de estrelas"], 
+        correctAnswer: 0
+       },
+
+      {
+      question: "Qual é a técnica cirúrgica inovadora usada por Deus, segundo o livro de Gênesis, para virar a primeira Mulher? ",
+        options: ["Fez um clone direto do pó da terra", "Transformou água em ossos e carne", "Utilizou uma costela do Homem como bese", "Misturou pó da terra com luz do sol"], 
         correctAnswer: 2
        },
 

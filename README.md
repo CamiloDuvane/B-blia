@@ -308,6 +308,13 @@
         options: ["Sistema Antigo e Sistema Novo", "Sistema Velho e Sistema Actualizado", "Sistema Clássico e Sistema Actualizado", "Sistema Clássico e Sistema Moderno"], 
         correctAnswer: 3
        },
+      {
+      question: "No sistema Moderno o que acontece com todos os livros que os nomes vão até 05 letras? ",
+        options: ["Não se abrevia", "Se abrevia", "Usamos as Consoantes do nome", "Usamos a primeira Consoante e o primeira vogal"], 
+        correctAnswer: 0
+       },
+
+      
 
 
       

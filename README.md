@@ -376,7 +376,11 @@
         correctAnswer: 2
        },
 
-      
+       {
+      question: "Deus fez o Homem dotado de pleno poder para governar, e em paralelo uma ordem proibitiva.",
+        options: ["Falso", "Verdade"], 
+        correctAnswer: 1
+       },
 
 
       

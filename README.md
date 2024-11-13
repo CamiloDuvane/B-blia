@@ -382,7 +382,11 @@
         correctAnswer: 1
        },
 
-
+{
+      question: "Qual era o tipo de arvore Proibida?",
+        options: ["Macaneira", """Verdade""Verdade"], 
+        correctAnswer: 1
+       },
       
 
 

@@ -384,7 +384,7 @@
 
 {
       question: "Qual era o tipo de arvore Proibida?",
-        options: ["Macaneira", """Verdade""Verdade"], 
+        options: ["Macaneira", "b", "Verdade", "Verdade"], 
         correctAnswer: 1
        },
                     
